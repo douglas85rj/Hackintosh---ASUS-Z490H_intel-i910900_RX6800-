@@ -1,10 +1,9 @@
 # Créditos
 
-* [Dortania](https://github.com/dortania) for this great OpenCore Desktop Guide
-* [headkaze](https://github.com/headkaze) for Hackintool and our productive conversations :)
-* [Acidanthera](https://github.com/acidanthera) for too many things to mention each
-* [RehabMan](https://github.com/RehabMan) for too many things to mention each
-* [OpenCore project](https://github.com/OpenCorePkg) for this great bootloader
+* [Dortania](https://github.com/dortania)
+* [Acidanthera](https://github.com/acidanthera)
+* [RehabMan](https://github.com/RehabMan)
+* [OpenCore project](https://github.com/OpenCorePkg) bootloader
 * **Olarila  Install and configuration  https://www.olarila.com/**
 * **Canal do Gabriel Luchina** - Esse vai ajudar em tudo sobre hackintosh, se você procura uma canal com procedimentos bem explicados e em português, é esse:  https://www.youtube.com/@UniversoHackintosh
 
