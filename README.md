@@ -1,6 +1,6 @@
 # Créditos
 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
 
 * [Dortania](https://github.com/dortania)
 * [Acidanthera](https://github.com/acidanthera)
@@ -14,7 +14,7 @@
 
 ![1668567155950](image/README/1668567155950.png)![1668567166328](image/README/1668567166328.png)
 
-
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 # hardware
 
 * Intel i9-10900k
